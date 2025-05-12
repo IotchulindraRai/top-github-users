@@ -131,7 +131,30 @@ There are `976 users`  in Nepal. You need at least `30 followers` to be on this 
 		<td>61191</td>
 	</tr>
 	<tr>
-		<td>3</td>
+		<td>3</td><td>
+			<a href="https://github.com/rajandmr">
+				<img src="https://avatars.githubusercontent.com/u/19308570?s=72&u=4e2f70c88df070fd59377f5d30fd5818a9249dd7&v=4" width="24" alt="Avatar of rajandmr"> rajandmr
+			</a><br/>
+			Rajan Kalwar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RajanDmr">RajanDmr</a></td>
+		<td>Kathmandu</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>873</td>
+		<td>
+			<a href="https://github.com/IotchulindraRai">
+				<img src="https://avatars.githubusercontent.com/u/87846923?v=4" width="24" alt="Avatar of Chulindra"> Chulindra Rai
+			</a><br/>
+			Chulindra Rai
+		</td>
+		<td> NovaNector </td>
+		<td><a href="[https://twitter.com/RealAnjaan](https://www.linkedin.com/in/chulindra-rai-a51308206">Chulindra Rai</a></td>
+		<td>Kathmandu , Nepal</td>
+		<td>460</td>
+	</tr>
 		<td>
 			<a href="https://github.com/RojanSapkota">
 				<img src="https://avatars.githubusercontent.com/u/175611632?s=72&u=b53e7f961d659b0f49b2671122a9ef0889e0fb9f&v=4" width="24" alt="Avatar of RojanSapkota"> RojanSapkota
